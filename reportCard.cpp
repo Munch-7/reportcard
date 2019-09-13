@@ -30,7 +30,7 @@ int main () {
 		cin << view; //reusing this variable in each else if rather than declare several variables that would never conflict
 		switch(view) {
 			case 1: cout << "Biology Average letter grade: " /*do the math with the average percent*/;
-					cout << "Biology Average letter grade: " /*do the math with the average percent*/;
+				cout << "Biology Average letter grade: " /*do the math with the average percent*/;
 					break;
 			//TODO repeat for all cases
 			default: cout << "Class not found";
